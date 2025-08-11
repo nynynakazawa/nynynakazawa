@@ -15,7 +15,7 @@
 - 2024/2~現在: 株式会社ブランド高知 最高技術責任者
   - MUGEN POCKET（スマホAR/XRのプロダクト/事業サイト）システム開発
   - Link: https://mugenpocket.com
-  - PHP, JavaSprict, MySQL, ARカード × NFC、3Dスキャン/モデリング、XR体験、Blender、Model-Viwer
+  - PHP, JavaSprict, MySQL, ARカード × NFC, 3Dスキャン/モデリング, XR体験、Blender、Model-Viwer
 
 - 2024/4~現在: 青山学院大学大学院 生体センシング研究室
   - RealTime-IBI-BP（Androidアプリ / PPGベースのIBI・血圧推定・強化学習フィードバック）単独開発
