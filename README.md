@@ -10,6 +10,10 @@
 - 強み: フロントエンドからバックエンドまで一気通貫で設計・実装し、技術要素を効率的かつ美しく融合
 - 関心: AR/XR, LLM活用（OpenAI/Gemini）, モバイル × Web, リアルタイム信号処理
 
+## 🏆 Achievements & Roles
+- GMOのインターンにおけるチーム形式ハッカソンで「Cohoha」コントロールパネルを開発し優勝 — [GMO_Team_B](https://github.com/nynynakazawa/GMO_Team_B)
+- 現在: 学生企業にて、学生向け長期インターン紹介サービスのシステム開発を技術統括 — [TokyoIntern](https://github.com/nynynakazawa/TokyoIntern)
+
 ## 🛠 Tech Stack
 <!-- main stacks -->
 <p>
@@ -31,21 +35,21 @@
   - ARカード × NFC、3Dスキャン/モデリング、XR体験制作
 - RealTime-IBI-BP（Android / PPGベースのIBI・血圧推定・強化学習フィードバック）
   - Repo: https://github.com/nynynakazawa/RealTime-IBI-BP
-  - CameraX, 信号処理(FFT), MPAndroidChart, TFLite, DQN
+  - CameraX API, 信号処理, MPAndroidChart, TFLite, DQN
 
 ## 📊 Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=nynynakazawa&show_icons=true&theme=merko&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nynynakazawa&layout=compact&theme=merko&hide_border=true&hide=jupyter%20notebook" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nynynakazawa&show_icons=true&hide_border=true&bg_color=00000000&theme=merko" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nynynakazawa&layout=compact&hide_border=true&hide=jupyter%20notebook&bg_color=00000000&theme=merko" height="150" />
 </p>
 <p>
-  <img src="https://streak-stats.demolab.com?user=nynynakazawa&theme=merko&hide_border=true" height="180" />
+  <img src="https://streak-stats.demolab.com?user=nynynakazawa&theme=transparent&hide_border=true" height="180" />
 </p>
 <p>
   <img src="https://github-profile-trophy.vercel.app/?username=nynynakazawa&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" />
 </p>
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nynynakazawa&bg_color=0d1117&color=58bc82&line=58bc82&point=58bc82&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nynynakazawa&bg_color=transparent&color=58bc82&line=58bc82&point=58bc82&area=true&hide_border=true" />
 </p>
 
 ## ✉️ Contact
