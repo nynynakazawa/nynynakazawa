@@ -12,16 +12,23 @@
 - 関心: AR/XR, LLM活用（OpenAI/Gemini）, モバイル × Web, リアルタイム信号処理
 
 ## 🚀 Featured
-- MUGEN POCKET（スマホAR/XRのプロダクト/事業サイト）
+- 2024/2~現在: 株式会社ブランド高知 最高技術責任者
+  - MUGEN POCKET（スマホAR/XRのプロダクト/事業サイト）システム開発
   - Link: https://mugenpocket.com
-  - ARカード × NFC、3Dスキャン/モデリング、XR体験制作
-- RealTime-IBI-BP（Android / PPGベースのIBI・血圧推定・強化学習フィードバック）
-  - Repo: https://github.com/nynynakazawa/RealTime-IBI-BP
-  - CameraX API, 信号処理, MPAndroidChart, TFLite, DQN
+  - ARカード × NFC、3Dスキャン/モデリング、XR体験、Blender、Model-Viwer
+- 2024/4~現在: 青山学院大学大学院 生体センシング研究室
+  - RealTime-IBI-BP（Androidアプリ / PPGベースのIBI・血圧推定・強化学習フィードバック）単独開発
+  - Repo: [RealTime-IBI-BP](https://github.com/nynynakazawa/RealTime-IBI-BP)
+  - CameraX API, リアルタイム信号処理, MPAndroidChart, TFLite, DQN
+  - 心拍誤差 2.95% (学会発表済) / 血圧誤差 約±10mmHg (エッジケースを除く)
 
 ## 🏆 Achievements & Roles
-- GMOのインターンにおけるチーム形式ハッカソンで「Conoha」コントロールパネルを開発し優勝 — [GMO_Team_B](https://github.com/nynynakazawa/GMO_Team_B)
-- 現在: 学生企業にて、学生向け長期インターン紹介サービスのシステム開発を技術統括 — [TokyoIntern](https://github.com/nynynakazawa/TokyoIntern)
+- 2025/05~現在: 学生起業にて、学生向け長期インターン紹介サービスのシステム開発を技術統括 — [TokyoIntern](https://github.com/nynynakazawa/TokyoIntern)
+- 2025/08: GMOのインターンにおけるチーム形式ハッカソンで「Conoha」コントロールパネルを開発し優勝 — [GMO_Team_B](https://github.com/nynynakazawa/GMO_Team_B)
+
+- 2025/09: CyberAgent — インターン開始予定（確定）
+- 2025/09: KDDI — インターン開始予定（確定）
+- 2025/09: SKSC — インターン開始予定（確定）
 
 ## 🛠 Tech Stack
 <!-- main stacks -->
