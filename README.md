@@ -23,10 +23,10 @@
   - AndroidStudio, Java, CameraX API, リアルタイム信号処理, MPAndroidChart, TFLite, DQN
   - 心拍誤差 2.95% (学会発表済) / 血圧誤差 約±10mmHg (エッジケースを除く)
 
-- 2025/05~現在: 合同会社ジダイノベーション　学生起業/技術統括
+- 2025/05~現在: 合同会社ジダイノベーション 学生起業/技術統括
   - Tokyo Intern (学生向け長期インターン紹介サービス) システム開発
-  — Repo: [TokyoIntern](https://github.com/nynynakazawa/TokyoIntern)
-  - Next.js, TypeSprict, NodeJS, FireBase
+  - Repo: [TokyoIntern](https://github.com/nynynakazawa/TokyoIntern)
+  - Next.js, TypeScript, Node.js, Firebase
 
 ## Intern
 - 2025/08: GMOのインターンにおけるチーム形式ハッカソンで「Conoha」コントロールパネルを開発し優勝 — [GMO_Team_B](https://github.com/nynynakazawa/GMO_Team_B)
