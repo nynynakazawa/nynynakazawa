@@ -6,7 +6,7 @@
 </p>
 
 ## 👋 About
- - 2025/04: 以前は複数のアカウントにプロジェクトが散在していたため、アカウントを一新しました
+- 2025/04: 以前は複数のアカウントにプロジェクトが散在していたため、アカウントを一新しました
 - 起業 / 研究 / ベンチャー企業での技術開発 / 個人開発 / インターンに注力
 - 強み: フロントエンドからバックエンドまで一気通貫で設計・実装し、技術要素を効率的かつ美しく融合
 - 関心: AR/XR, LLM活用（OpenAI/Gemini）, モバイル × Web, リアルタイム信号処理
@@ -20,7 +20,7 @@
   - CameraX API, 信号処理, MPAndroidChart, TFLite, DQN
 
 ## 🏆 Achievements & Roles
-- GMOのインターンにおけるチーム形式ハッカソンで「Cohoha」コントロールパネルを開発し優勝 — [GMO_Team_B](https://github.com/nynynakazawa/GMO_Team_B)
+- GMOのインターンにおけるチーム形式ハッカソンで「Conoha」コントロールパネルを開発し優勝 — [GMO_Team_B](https://github.com/nynynakazawa/GMO_Team_B)
 - 現在: 学生企業にて、学生向け長期インターン紹介サービスのシステム開発を技術統括 — [TokyoIntern](https://github.com/nynynakazawa/TokyoIntern)
 
 ## 🛠 Tech Stack
