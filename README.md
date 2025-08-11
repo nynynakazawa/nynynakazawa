@@ -9,26 +9,32 @@
 - 2025/04: 以前は複数のアカウントにプロジェクトが散在していたため、アカウントを一新しました
 - 起業 / 研究 / ベンチャー企業での技術開発 / 個人開発 / インターンに注力
 - 強み: フロントエンドからバックエンドまで一気通貫で設計・実装し、技術要素を効率的かつ美しく融合
-- 関心: AR/XR, LLM活用（OpenAI/Gemini）, モバイル × Web, リアルタイム信号処理
+- 関心: AR/XR, LLM組込（OpenAI/Gemini）, モバイル × Web, ネイティブアプリケーション, リアルタイム信号処理
 
 ## 🚀 Featured
 - 2024/2~現在: 株式会社ブランド高知 最高技術責任者
   - MUGEN POCKET（スマホAR/XRのプロダクト/事業サイト）システム開発
   - Link: https://mugenpocket.com
-  - ARカード × NFC、3Dスキャン/モデリング、XR体験、Blender、Model-Viwer
+  - PHP, JavaSprict, MySQL, ARカード × NFC、3Dスキャン/モデリング、XR体験、Blender、Model-Viwer
+
 - 2024/4~現在: 青山学院大学大学院 生体センシング研究室
   - RealTime-IBI-BP（Androidアプリ / PPGベースのIBI・血圧推定・強化学習フィードバック）単独開発
   - Repo: [RealTime-IBI-BP](https://github.com/nynynakazawa/RealTime-IBI-BP)
-  - CameraX API, リアルタイム信号処理, MPAndroidChart, TFLite, DQN
+  - AndroidStudio, Java, CameraX API, リアルタイム信号処理, MPAndroidChart, TFLite, DQN
   - 心拍誤差 2.95% (学会発表済) / 血圧誤差 約±10mmHg (エッジケースを除く)
 
-## 🏆 Achievements & Roles
-- 2025/05~現在: 学生起業にて、学生向け長期インターン紹介サービスのシステム開発を技術統括 — [TokyoIntern](https://github.com/nynynakazawa/TokyoIntern)
+- 2025/05~現在: 合同会社ジダイノベーション　学生起業/技術統括
+  - Tokyo Intern (学生向け長期インターン紹介サービス) システム開発
+  — Repo: [TokyoIntern](https://github.com/nynynakazawa/TokyoIntern)
+  - Next.js, TypeSprict, NodeJS, FireBase
+
+## Intern
 - 2025/08: GMOのインターンにおけるチーム形式ハッカソンで「Conoha」コントロールパネルを開発し優勝 — [GMO_Team_B](https://github.com/nynynakazawa/GMO_Team_B)
 
 - 2025/09: CyberAgent — インターン開始予定（確定）
 - 2025/09: KDDI — インターン開始予定（確定）
 - 2025/09: SKSC — インターン開始予定（確定）
+- And More ...
 
 ## 🛠 Tech Stack
 <!-- main stacks -->
