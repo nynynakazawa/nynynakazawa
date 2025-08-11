@@ -39,7 +39,7 @@
   - React Native, TypeScript, Firebase, GPS
 
 ## 🏢 Intern
-- 2025/08: GMOのインターンにおけるチーム形式ハッカソンで「ConohaForGame」コントロールパネルを開発し優勝 — [Repo](https://github.com/nynynakazawa/GMO_Team_B)[Link(環境変数削除済)](https://gmo-team-b.vercel.app)
+- 2025/08: GMOのインターンにおけるチーム形式ハッカソンで「ConohaForGame」コントロールパネルを開発し優勝 — [Repo](https://github.com/nynynakazawa/GMO_Team_B) [Link(環境変数削除済)](https://gmo-team-b.vercel.app)
 - 2025/09: CyberAgent — インターン開始予定（確定）
 - 2025/09: KDDI — インターン開始予定（確定）
 - 2025/09: SKSC — インターン開始予定（確定）
