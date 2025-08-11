@@ -28,7 +28,17 @@
   - Repo: [TokyoIntern](https://github.com/nynynakazawa/TokyoIntern)
   - Next.js, TypeScript, Node.js, Firebase
 
-## Intern
+## 📜 今までの経歴
+- 2021/09~2023/03: 青山個別（屋号） 学生起業/共同代表
+  - 完全フレックスでSNSでいつでもやり取りできる塾
+  - PHP, MySQL, JavaScript, LINE連携
+
+- 2023/09~2025/03: Kanpai（屋号） 学生起業/共同代表/技術統括
+  - SaborenaAI（フードデリバリー効率化SaaS）
+  - Repo: [SaborenaAI](https://github.com/nynynakazawa/SaborenaAI)
+  - React Native, TypeScript, Firebase, GPS
+
+## 🏢 Intern
 - 2025/08: GMOのインターンにおけるチーム形式ハッカソンで「Conoha」コントロールパネルを開発し優勝 — [GMO_Team_B](https://github.com/nynynakazawa/GMO_Team_B)
 
 - 2025/09: CyberAgent — インターン開始予定（確定）
