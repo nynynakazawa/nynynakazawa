@@ -25,7 +25,7 @@
 
 - 2025/05~現在: 合同会社ジダイノベーション 学生起業/技術統括
   - Tokyo Intern (学生向け長期インターン紹介サービス) システム開発
-  - リアルタイムチャット機能とAI面談システムを活用し、学生がインターンシップで最大限の成果を上げられるようサポート
+  - リアルタイムチャット機能や半自動面談システムを開発し、学生がインターンシップで最大限の成果を上げられるようサポート
   - Link: https://tokyointern.com
   - Repo(非公開): [TokyoIntern](https://github.com/nynynakazawa/TokyoIntern)
   - Next.js, TypeScript, Nodejs, Firebase
