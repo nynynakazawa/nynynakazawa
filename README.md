@@ -25,8 +25,10 @@
 
 - 2025/05~現在: 合同会社ジダイノベーション 学生起業/技術統括
   - Tokyo Intern (学生向け長期インターン紹介サービス) システム開発
-  - Repo: [TokyoIntern](https://github.com/nynynakazawa/TokyoIntern)
-  - Next.js, TypeScript, Node.js, Firebase
+  - リアルタイムチャット機能とAI面談システムを活用し、学生がインターンシップで最大限の成果を上げられるようサポート
+  - Link: https://tokyointern.com
+  - Repo(非公開): [TokyoIntern](https://github.com/nynynakazawa/TokyoIntern)
+  - Next.js, TypeScript, Nodejs, Firebase
 
 ## 📜 今までの経歴
 - 2021/09~2023/03: 青山個別（屋号） 学生起業/共同代表
@@ -36,7 +38,7 @@
 - 2023/09~2025/03: Kanpai（屋号） 学生起業/共同代表/技術統括
   - SaborenaAI（フードデリバリー効率化SaaS）
   - Repo: [SaborenaAI](https://github.com/nynynakazawa/SaborenaAI)
-  - React Native, TypeScript, Firebase, GPS
+  - React Native, TypeScript, Firebase, Nodejs, GPS
 
 ## 🏢 Intern
 - 2025/08: 🏆GMOのインターンにおけるチーム形式ハッカソンで「ConohaForGame」ゲームサーバーコントロールパネルを開発し優勝 — [Repo](https://github.com/nynynakazawa/GMO_Team_B) - [Link(環境変数削除済)](https://gmo-team-b.vercel.app)
