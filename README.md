@@ -12,19 +12,20 @@
 - 関心: AR/XR, LLM組込（OpenAI/Gemini）, モバイル × Web, ネイティブアプリケーション, リアルタイム信号処理
 
 ## 🚀 Featured
-- 2024/2~現在: 株式会社ブランド高知 最高技術責任者
-  - MUGEN POCKET（スマホAR/XRのプロダクト/事業サイト）システム開発
+- 2024/2~現在: 株式会社ブランド高知 技術責任者
+  - MUGEN POCKET（スマホAR/XRのプロダクト/事業サイト）システム開発/CG制作/サイト作成
+  - 大阪万博で展示されました
   - Link: https://mugenpocket.com
-  - PHP, JavaScript, MySQL, ARカード × NFC, 3Dスキャン/モデリング, XR体験, Blender, Model-Viewer
+  - PHP, JavaScript, MySQL, AR, XR, NFC, 3Dスキャン/モデリング, Blender, Model-Viewer
 
 - 2024/4~現在: 青山学院大学大学院 生体センシング研究室
-  - RealTime-IBI-BP（Androidアプリ / PPGベースのIBI・血圧推定・強化学習フィードバック）単独開発
+  - RealTime-IBI-BP（Androidアプリ / PPGベースのIBI・血圧推定・心拍同期音楽/強化学習フィードバック）単独開発
   - Repo: [RealTime-IBI-BP](https://github.com/nynynakazawa/RealTime-IBI-BP)
-  - AndroidStudio, Java, CameraX API, リアルタイム信号処理, MPAndroidChart, TFLite, DQN
+  - AndroidStudio, Java, CameraX API, リアルタイム信号処理, MPAndroidChart, Midi, HapticEngine, TFLite, DQN
   - 心拍誤差 2.95% (学会発表済) / 血圧誤差 約±10mmHg (エッジケースを除く)
 
-- 2025/05~現在: 合同会社ジダイノベーション 学生起業/最高技術責任者
-  - Tokyo Intern (学生向け長期インターン紹介サービス) システム開発
+- 2025/05~現在: 合同会社ジダイノベーション 学生起業 最高技術責任者
+  - TokyoIntern (学生向け長期インターン紹介サービス) システム開発/サイト作成
   - リアルタイムチャット機能や半自動面談システムを開発し、学生がインターンシップで最大限の成果を上げられるようサポート
   - Link: https://tokyointern.com
   - Repo(非公開): [TokyoIntern](https://github.com/nynynakazawa/TokyoIntern)
@@ -38,7 +39,7 @@
 - 2023/09~2025/03: Kanpai（屋号） 学生起業/共同代表/技術統括
   - SaborenaAI（フードデリバリー効率化SaaS）
   - Repo: [SaborenaAI](https://github.com/nynynakazawa/SaborenaAI)
-  - React Native, TypeScript, Firebase, Nodejs, GPS
+  - React Native(Expo), TypeScript, Firebase, Nodejs, GPS
 
 ## 🏢 Intern
 - 2025/08: 🏆GMOのインターンにおけるチーム形式ハッカソンで「ConohaForGame」ゲームサーバーコントロールパネルを開発し優勝 — [Repo](https://github.com/nynynakazawa/GMO_Team_B) - [Link(環境変数削除済)](https://gmo-team-b.vercel.app)
