@@ -72,9 +72,6 @@
   <img src="https://img.shields.io/badge/LLM-Gemini-1A73E8?logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Email-Resend-00A2FF?logo=resend&logoColor=white" />
   <img src="https://img.shields.io/badge/Database-Supabase-3ECF8E?logo=supabase&logoColor=white" />
-</p>
-<p>
-
   <img src="https://img.shields.io/badge/Database-Supabase-3ECF8E?logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/UI-MUI-0081CB?logo=mui&logoColor=white" />
   <img src="https://img.shields.io/badge/ML-TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
