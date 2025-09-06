@@ -58,24 +58,22 @@
 ## 🛠 Tech Stack
 <!-- main stacks -->
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,reactnative,nextjs,nodejs,firebase" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,firebase,java,php,python" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=java,php,python,html,css,tailwind,androidstudio,xcode" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=git,blender,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,androidstudio,xcode,git,blender,mysql" />
 </p>
 
 <!-- extras / badges -->
 <p>
+  <img src="https://img.shields.io/badge/Mobile-React%20Native-61DAFB?logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/LLM-OpenAI-412991?logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/LLM-Gemini-1A73E8?logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Email-Resend-00A2FF?logo=resend&logoColor=white" />
   <img src="https://img.shields.io/badge/Database-Supabase-3ECF8E?logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI-MUI-0081CB?logo=mui&logoColor=white" />
 </p>
 <p>
+  <img src="https://img.shields.io/badge/UI-MUI-0081CB?logo=mui&logoColor=white" />
   <img src="https://img.shields.io/badge/ML-TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/WebAR-model--viewer-00BFA5" />
   <img src="https://img.shields.io/badge/NFC-Near%20Field%20Communication-000000" />
