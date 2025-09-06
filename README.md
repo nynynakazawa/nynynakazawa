@@ -14,7 +14,7 @@
 ## 🚀 Featured
 - 2024/2~現在: 株式会社ブランド高知 技術責任者
   - MUGEN POCKET（スマホAR/XRのプロダクト/事業サイト）システム開発/CG制作/サイト作成
-  - 大阪・関西万博で展示されました
+  - 高知県内の有名な観光地やネットで販売中、大阪・関西万博で展示されました
   - Link: https://mugenpocket.com
   - PHP, JavaScript, MySQL, AR, XR, NFC, 3Dスキャン/モデリング, Blender, Model-Viewer
 
@@ -25,8 +25,8 @@
   - 心拍誤差 2.95% (学会発表済) / 血圧誤差 約±10mmHg (エッジケースを除く)
 
 - 2025/05~現在: 合同会社ジダイノベーション 学生起業 最高技術責任者
-  - TokyoIntern (学生向け長期インターン紹介サービス) システム/Webアプリ開発
-    - リアルタイムチャット機能、自動面談調整システム、LLMによるES自動添削システムなどを開発し、学生のインターンシップ合格を徹底サポート
+  - TokyoIntern (学生向け長期インターンマッチング/支援サービス) システム/Webアプリ開発
+    - リアルタイムチャット、自動面談/進捗管理、LLMによるES自動添削システムなどを開発
     - Link(提供サービス): https://tokyointern.com
     - Repo(非公開): [TokyoIntern](https://github.com/nynynakazawa/TokyoIntern)
     - Next.js, TypeScript, Nodejs, Firebase, MUI, OpenAI　API, Resend, Tailwindcss
