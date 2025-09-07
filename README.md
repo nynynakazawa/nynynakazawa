@@ -24,7 +24,7 @@
   - AndroidStudio, Java, CameraX API, リアルタイム信号処理, MPAndroidChart, Midi, HapticEngine, TFLite, DQN
   - 心拍誤差 2.95% (学会発表済) / 血圧誤差 約±10mmHg (エッジケースを除く)
 
-- 2025/05~現在: 合同会社ジダイノベーション 学生起業 最高技術責任者
+- 2025/6~現在: 合同会社ジダイノベーション 学生起業 最高技術責任者
   - TokyoIntern (学生向け長期インターンマッチング/支援サービス) システム/Webアプリ開発
     - リアルタイムチャット、自動面談/進捗管理、LLMによるES自動添削システムなどを開発
     - Link(提供サービス): https://tokyointern.com
