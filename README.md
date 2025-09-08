@@ -30,7 +30,7 @@
     - Link(提供サービス): https://tokyointern.com
     - Repo(非公開): [TokyoIntern](https://github.com/nynynakazawa/TokyoIntern)
     - Next.js, TypeScript, Nodejs, Firebase, MUI, OpenAI　API, Resend, Tailwindcss
-  - Zidainnovation 公式HP (企業内CRMツール) サイト作成
+  - Zidainnovation 公式HP サイト作成
     - Link(企業HP): https://zidainnovation.tokyo
     - PHP, JavaScript, MySQL
   - Zidainnovation-CRM (企業内CRMツール) システム開発
