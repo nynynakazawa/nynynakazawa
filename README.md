@@ -49,10 +49,10 @@
   - React Native(Expo), TypeScript, Firebase, Nodejs, GPS, MUI
 
 ## 🏢 Intern
-- 2025/08: 🏆GMOのインターンにおけるチーム形式ハッカソンで「ConohaForGame」ゲームサーバーコントロールパネルを開発し優勝 — [Repo](https://github.com/nynynakazawa/GMO_Team_B) - [Link(環境変数削除済)](https://gmo-team-b.vercel.app)
+- 2025/08: 🏆GMO - チーム形式ハッカソンで「ConohaForGame」ゲームサーバーコントロールパネルを開発し優勝 — [Repo](https://github.com/nynynakazawa/GMO_Team_B) - [Link(環境変数削除済)](https://gmo-team-b.vercel.app)
 - 2025/09: SCSK — Scratchで双方向の送信が可能なSNS風プログラムを作成
-- 2025/09: CyberAgent — インターン開始予定（確定）
-- 2025/09: KDDI — インターン開始予定（確定）
+- 2025/09: CyberAgent — チーム形式ハッカソンでGOでの広告配信サーバー開発およびAWSでのインフラ構築を経験
+- 2025/09: KDDI — 営業職志望のチームメイトと共同でソリューションエンジニアとして技術的観点を活かしたソリューション構築を経験
 - And More ...
 
 ## 🛠 Tech Stack
