@@ -26,10 +26,10 @@
 
 - 2025/6~現在: 合同会社ジダイノベーション 学生起業 最高技術責任者
   - TokyoIntern (学生向け長期インターンマッチング/支援サービス) システム/Webアプリ開発
-    - リアルタイムチャット、自動面談/進捗管理、LLMによるES自動添削システムなどを開発
+    - リアルタイムチャット、自動面談/進捗管理、LLMによるES自動添削システム、プラットフォーム連携の完全自動公式Lineなどを開発
     - Link(提供サービス): https://tokyointern.com
     - Repo(非公開): [TokyoIntern](https://github.com/nynynakazawa/TokyoIntern)
-    - Next.js, TypeScript, Nodejs, Firebase, MUI, OpenAI　API, Resend, Tailwindcss
+    - Next.js, TypeScript, Nodejs, Firebase, MUI, OpenAI API, Line Developer API, Resend, Tailwindcss
   - Zidainnovation 公式HP サイト作成
     - Link(企業HP): https://zidainnovation.tokyo
     - PHP, JavaScript, MySQL
@@ -50,9 +50,9 @@
 
 ## 🏢 Intern
 - 2025/08: 🏆GMO - チーム形式ハッカソンで「ConohaForGame」ゲームサーバーコントロールパネルを開発し優勝 — [Repo](https://github.com/nynynakazawa/GMO_Team_B) - [Link(環境変数削除済)](https://gmo-team-b.vercel.app)
-- 2025/09: SCSK — Scratchで双方向の送信が可能なSNS風プログラムを作成
 - 2025/09: CyberAgent — チーム形式ハッカソンでGOでの広告配信サーバー開発およびAWSでのインフラ構築を経験
 - 2025/09: KDDI — 営業職志望のチームメイトと共同でソリューションエンジニアとして技術的観点を活かしたソリューション構築を経験
+- 2025/12: 野村総合研究所 — DXエキスパートコース(予定・確定)
 - And More ...
 
 ## 🛠 Tech Stack
