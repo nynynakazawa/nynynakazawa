@@ -25,18 +25,21 @@
   - 心拍誤差 2.95% (学会発表済) / 血圧誤差 約±10mmHg (エッジケースを除く)
 
 - 2025/6~現在: 合同会社ジダイノベーション 学生起業 最高技術責任者
+  - Zidainnovation 公式HP サイト作成
+    - Link(企業HP): https://zidainnovation.tokyo
+
   - TokyoIntern (学生向け長期インターンマッチング/支援サービス) システム/Webアプリ開発
     - リアルタイムチャット、自動面談/進捗管理、LLMによるES自動添削システム、プラットフォーム連携の完全自動公式Lineなどを開発
     - Link(提供サービス): https://tokyointern.com
     - Repo(非公開): [TokyoIntern](https://github.com/nynynakazawa/TokyoIntern)
     - Next.js, TypeScript, Nodejs, Firebase, MUI, OpenAI API, Line Developer API, Resend, Tailwindcss
-  - Zidainnovation 公式HP サイト作成
-    - Link(企業HP): https://zidainnovation.tokyo
-    - PHP, JavaScript, MySQL
-  - Zidainnovation-CRM (企業内CRMツール) システム開発
-    - Link(企業内CRMツール): https://zidainnovation-crm.vercel.app/
-    - Repo(非公開): [Zidainnovation-CRM](https://github.com/nynynakazawa/Zidainnovation-CRM)
-    - Next.js, TypeScript, Nodejs, Supabase, Tailwindcss
+
+  - 学割メシ (学生向け学割グルメマップ/クーポンアプリ) システム/Web・ネイティブアプリ開発
+    - Google Mapsを用いた現在地周辺の店舗検索、デジタルクーポン発行・利用、店舗オーナー向け管理画面、メール認証システムなどを開発
+    - Link(提供サービス): https://gakuwarimesi.com / Native版申請中
+    - Repo(非公開): [gakuwari_mesi](https://github.com/nynynakazawa/gakuwari_mesi)
+    - Expo, React Native, TypeScript, Firebase, Google Maps API, Resend, Tailwindcss, Zustand, Zod
+
 
 ## 📜 今までの経歴
 - 2021/09~2023/03: 青山個別（屋号） 学生起業/共同代表
