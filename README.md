@@ -1,4 +1,5 @@
 <!-- Header: wave + typing (theme: #58bc82) -->
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=58bc82&height=180&section=header&text=nynynakazawa&fontSize=48&fontColor=ffffff)
 
 <p align="center">
@@ -6,52 +7,60 @@
 </p>
 
 ## 👋 About
-- 2025/04: 以前は複数のアカウントにプロジェクトが散在していたため、アカウントを一新しました
+
+- Business × Tech Engineer / Student CTO ビジネス要件定義から実装、運用までを一気通貫で手掛ける「事業を創るエンジニア」です。 強み: AR/XR, LLM実装, TypeScript/React/Next.js, リアルタイム信号処理
 - 起業 / 研究 / ベンチャー企業での技術開発 / 個人開発 / インターンに注力
 - 強み: フロントエンドからバックエンドまで一気通貫で設計・実装し、技術要素を効率的かつ美しく融合
 - 関心: AR/XR, LLM組込（OpenAI/Gemini）, モバイル × Web, ネイティブアプリケーション, リアルタイム信号処理
 
 ## 🚀 Featured
+
 - 2024/2~現在: 株式会社ブランド高知 技術責任者
+
   - MUGEN POCKET（スマホAR/XRのプロダクト/事業サイト）システム開発/CG制作/サイト作成
-  - 高知県内の有名な観光地やネットで販売中、大阪・関西万博で展示されました
+  - 🏆 大阪・関西万博（2025）出展プロジェクト 地方自治体（高知県等）と連携し、企画から開発・現地導入までを技術責任者としてリード。 観光地での実運用に耐えうる堅牢性と、一般ユーザー（非テック層）でも使えるUI/UXを実現。デザインも現在のデザインを軸にしつつより綺麗で動的なデザインに!
   - Link: https://mugenpocket.com
   - PHP, JavaScript, MySQL, AR, XR, NFC, 3Dスキャン/モデリング, Blender, Model-Viewer
-
 - 2024/4~現在: 青山学院大学大学院 生体センシング研究室
+
   - RealTime-IBI-BP（Androidアプリ / PPGベースのIBI・血圧推定・心拍同期音楽/強化学習フィードバック）単独開発
   - Repo: [RealTime-IBI-BP](https://github.com/nynynakazawa/RealTime-IBI-BP)
   - AndroidStudio, Java, CameraX API, リアルタイム信号処理, MPAndroidChart, Midi, HapticEngine, TFLite, DQN
   - 心拍誤差 2.95% (学会発表済) / 血圧誤差 約±10mmHg (エッジケースを除く)
-
 - 2025/6~現在: 合同会社ジダイノベーション 学生起業 最高技術責任者
-  - Zidainnovation 公式HP サイト作成
-    - Link(企業HP): https://zidainnovation.tokyo
 
+  - Zidainnovation 公式HP サイト作成
+
+    - Link(企業HP): https://zidainnovation.tokyo
   - TokyoIntern (学生向け長期インターンマッチング/支援サービス) システム/Webアプリ開発
+
     - リアルタイムチャット、自動面談/進捗管理、LLMによるES自動添削システム、プラットフォーム連携の完全自動公式Lineなどを開発
     - Link(提供サービス): https://tokyointern.com
     - Repo(非公開): [TokyoIntern](https://github.com/nynynakazawa/TokyoIntern)
+    - Architecture: Next.js (Front) -> Firebase (Auth/DB) -> Cloud Functions (Logic) -> OpenAI API / Line API
     - Next.js, TypeScript, Nodejs, Firebase, MUI, OpenAI API, Line Developer API, Resend, Tailwindcss
-
   - 学割メシ (学生向け学割グルメマップ/クーポンアプリ) システム/Web・ネイティブアプリ開発
+
     - Google Mapsを用いた現在地周辺の店舗検索、デジタルクーポン発行・利用、店舗オーナー向け管理画面、メール認証システムなどを開発
-    - Link(提供サービス): https://gakuwarimesi.com / Native版申請中
+    - Link(提供サービス): https://gakuwarimesi.com / [iOS App](https://apps.apple.com/jp/app/%E5%AD%A6%E5%89%B2%E3%83%A1%E3%82%B7/id6757522070)
     - Repo(非公開): [gakuwari_mesi](https://github.com/nynynakazawa/gakuwari_mesi)
+    - Architecture: Expo/React Native (App) -> Firebase (Auth/DB) -> Google Maps API -> Cloud Functions
     - Expo, React Native, TypeScript, Firebase, Google Maps API, Resend, Tailwindcss, Zustand, Zod
 
-
 ## 📜 今までの経歴
+
 - 2021/09~2023/03: 青山個別（屋号） 学生起業/共同代表
+
   - 完全フレックスでSNSでいつでもやり取りできる塾
   - PHP, MySQL, JavaScript, LINE連携
-
 - 2023/09~2025/03: Kanpai（屋号） 学生起業/共同代表/技術統括
+
   - SaborenaAI（フードデリバリー効率化SaaS）
   - Repo: [SaborenaAI](https://github.com/nynynakazawa/SaborenaAI)
   - React Native(Expo), TypeScript, Firebase, Nodejs, GPS, MUI
 
 ## 🏢 Intern
+
 - 2025/08: 🏆GMO - チーム形式ハッカソンで「ConohaForGame」ゲームサーバーコントロールパネルを開発し優勝 — [Repo](https://github.com/nynynakazawa/GMO_Team_B) - [Link(環境変数削除済)](https://gmo-team-b.vercel.app)
 - 2025/09: CyberAgent — チーム形式ハッカソンでGOでの広告配信サーバー開発およびAWSでのインフラ構築を経験
 - 2025/09: KDDI — 営業職志望のチームメイトと共同でソリューションエンジニアとして技術的観点を活かしたソリューション構築を経験
@@ -59,7 +68,9 @@
 - And More ...
 
 ## 🛠 Tech Stack
+
 <!-- main stacks -->
+
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,firebase,java,php,python" />
 </p>
@@ -68,6 +79,7 @@
 </p>
 
 <!-- extras / badges -->
+
 <p>
   <img src="https://img.shields.io/badge/Mobile-React%20Native-61DAFB?logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/iOS-Xcode-147EFB?logo=xcode&logoColor=white" />
@@ -85,6 +97,7 @@
 </p>
 
 ## 📊 Stats
+
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=nynynakazawa&show_icons=true&hide_border=true&bg_color=00000000&theme=merko" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nynynakazawa&layout=compact&hide_border=true&hide=jupyter%20notebook&bg_color=00000000&theme=merko" height="150" />
@@ -100,6 +113,7 @@
 </p>
 
 ## ✉️ Contact
+
 <p>
   <a href="mailto:nynynakazawa@gmail.com">
     <img src="https://img.shields.io/badge/Email-nynynakazawa%40gmail.com-58bc82?style=for-the-badge&labelColor=707070" />
@@ -107,4 +121,5 @@
 </p>
 
 <!-- Footer wave -->
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=58bc82&height=120&section=footer)
