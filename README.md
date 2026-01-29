@@ -74,10 +74,7 @@
 <!-- main stacks -->
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js, ts, react, nextjs, nodejs, firebase, java, php, python" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=html, css, tailwind, androidstudio, git, blender, mysql" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,firebase,java,php,python,html,css,tailwind,androidstudio,git,blender,mysql" />
 </p>
 
 <!-- extras / badges -->
