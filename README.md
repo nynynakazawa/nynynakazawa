@@ -8,9 +8,9 @@
 
 ## 👋 About
 
-- Business × Tech Engineer / Student CTO ビジネス要件定義から実装、運用までを一気通貫で手掛ける「事業を創るエンジニア」です。
+- Business × Tech Engineer / Student CTO ビジネス要件定義から実装, 運用までを一気通貫で手掛ける「事業を創るエンジニア」です。
 - 起業 / 研究 / ベンチャー企業での技術開発 / 個人開発 / インターンに注力
-- 強み: フロントエンドからバックエンド, インフラまで一気通貫で設計・実装し、技術要素を効率的かつ美しく融合
+- 強み: フロントエンドからバックエンド, インフラまで一気通貫で設計・実装し, 技術要素を効率的かつ美しく融合
 - 関心: AR/XR, LLM組込（OpenAI/Gemini）, モバイル × Web (TypeSprict/React系), ネイティブアプリケーション, リアルタイム信号処理
 
 ## 🚀 Featured
@@ -18,32 +18,32 @@
 - 2024/2~現在: 株式会社ブランド高知 技術責任者
 
   - MUGEN POCKET（スマホAR/XRのプロダクト/事業サイト）システム開発/CG制作/サイト作成
-  - 🌏 大阪・関西万博（2025）出展プロジェクト 地方自治体（高知県等）と連携し、企画から開発・現地導入までを技術責任者としてリード。 観光地での実運用に耐えうる堅牢性と、一般ユーザー（非テック層）でも使えるUI/UXを実現。
+  - 🌏 大阪・関西万博（2025）出展プロジェクト 地方自治体（高知県等）と連携し, 企画から開発・現地導入までを技術責任者としてリード。 観光地での実運用に耐えうる堅牢性と, 一般ユーザー（非テック層）でも使えるUI/UXを実現。
   - Link: https://mugenpocket.com
   - PHP, JavaScript, MySQL, AR, XR, NFC, 3Dスキャン/モデリング, Blender, Model-Viewer
 - 2024/4~現在: 青山学院大学大学院 生体センシング研究室
 
-  - 🎓 4度の学会発表（うち1回は国際学会） 独自開発した生体信号処理アルゴリズムと、既存スマートフォンで動作する高い汎用性が評価され、国内・国際学会で成果を発表。研究開発から論文執筆、登壇発表までを一貫して主導。
+  - 🎓 4度の学会発表（うち1回は国際学会） 独自開発した生体信号処理アルゴリズムと, 既存スマートフォンで動作する高い汎用性が評価され, 国内・国際学会で成果を発表。研究開発から論文執筆, 登壇発表までを一貫して主導。
   - RealTime-IBI-BP（Androidアプリ / PPGベースのIBI・血圧推定・心拍同期音楽/強化学習フィードバック）単独開発
   - Repo: [RealTime-IBI-BP](https://github.com/nynynakazawa/RealTime-IBI-BP)
   - AndroidStudio, Java, CameraX API, リアルタイム信号処理, MPAndroidChart, Midi, HapticEngine, TFLite, DQN
   - 心拍誤差 2.95% / 血圧誤差 約±10mmHg (エッジケースを除く)
 - 2025/6~現在: 合同会社ジダイノベーション 学生起業 最高技術責任者
 
-  - 🚀 現役大学生4名による多角的事業展開。「学生視点」を強みに,学生だからこそできる事業を創出。CTOとして技術戦略から設計, 実装までをリード。
+  - 🚀 現役大学生4名による多角的事業展開。「学生視点」を強みに, 学生だからこそできる事業を創出。CTOとして技術戦略から設計, 実装までをリード。
   - Zidainnovation 公式HP サイト作成
 
     - Link(企業HP): https://zidainnovation.tokyo
   - TokyoIntern (学生向け長期インターンマッチング/支援サービス) システム/Webアプリ開発
 
-    - リアルタイムチャット、自動面談/進捗管理、LLMによるES自動添削システム、プラットフォーム連携の完全自動公式Lineなどを開発
+    - リアルタイムチャット, 自動面談/進捗管理, LLMによるES自動添削システム, プラットフォーム連携の完全自動公式Lineなどを開発
     - Link(提供サービス): https://tokyointern.com
     - Repo(非公開): [TokyoIntern](https://github.com/nynynakazawa/TokyoIntern)
     - Architecture: Next.js (Front) -> Firebase (Auth/DB) -> Cloud Functions (Logic) -> OpenAI API / Line API
     - Next.js, TypeScript, Nodejs, Firebase, MUI, OpenAI API, Line Developer API, Resend, Tailwindcss
   - 学割メシ (学生向け学割グルメマップ/クーポンアプリ) システム/Web・ネイティブアプリ開発
 
-    - Google Mapsを用いた現在地周辺の店舗検索、デジタルクーポン発行・利用、店舗オーナー向け管理画面、メール認証システムなどを開発
+    - Google Mapsを用いた現在地周辺の店舗検索, デジタルクーポン発行・利用, 店舗オーナー向け管理画面, メール認証システムなどを開発
     - Link(提供サービス): https://gakuwarimesi.com / [iOS App](https://apps.apple.com/jp/app/%E5%AD%A6%E5%89%B2%E3%83%A1%E3%82%B7/id6757522070)
     - Repo(非公開): [gakuwari_mesi](https://github.com/nynynakazawa/gakuwari_mesi)
     - Architecture: Expo/React Native (App) -> Firebase (Auth/DB) -> Google Maps API -> Cloud Functions
@@ -66,7 +66,7 @@
 - 2025/08: 🏆GMO - チーム形式ハッカソンで「ConohaForGame」ゲームサーバーコントロールパネルを開発し優勝 — [Repo](https://github.com/nynynakazawa/GMO_Team_B) - [Link(環境変数削除済)](https://gmo-team-b.vercel.app)
 - 2025/09: CyberAgent — チーム形式ハッカソンでGOでの広告配信サーバー開発およびAWSでのインフラ構築を経験
 - 2025/09: KDDI — 営業職志望のチームメイトと共同でソリューションエンジニアとして技術的観点を活かしたソリューション構築を経験
-- 2025/12: 野村総合研究所 — DXエキスパートコース MaaS×マッチングアプリのプロダクトをReact+ViteとPythonで開発。バックエンドはAWSを使用。データ分析を含む課題分析、企画、要件定義、開発、発表までを一気通貫で経験
+- 2025/12: 野村総合研究所 — DXエキスパートコース MaaS×マッチングアプリのプロダクトをReact+ViteとPythonで開発。バックエンドはAWSを使用。データ分析を含む課題分析, 企画, 要件定義, 開発, 発表までを一気通貫で経験
 - And More ...
 
 ## 🛠 Tech Stack
@@ -74,10 +74,10 @@
 <!-- main stacks -->
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,firebase,java,php,python" />
+  <img src="https://skillicons.dev/icons?i=js, ts, react, nextjs, nodejs, firebase, java, php, python" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,androidstudio,git,blender,mysql" />
+  <img src="https://skillicons.dev/icons?i=html, css, tailwind, androidstudio, git, blender, mysql" />
 </p>
 
 <!-- extras / badges -->
