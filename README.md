@@ -11,7 +11,7 @@
 - Business × Tech Engineer / Student CTO ビジネス要件定義から実装, 運用までを一気通貫で手掛ける「事業を創るエンジニア」です。
 - 起業 / 研究 / ベンチャー企業での技術開発 / 個人開発 / インターンに注力
 - 強み: フロントエンドからバックエンド, インフラまで一気通貫で設計・実装し, 技術要素を効率的かつ美しく融合
-- 関心: AR/XR, LLM組込（OpenAI/Gemini）, モバイル × Web (TypeSprict/React系), ネイティブアプリケーション, リアルタイム信号処理
+- 関心: AR/XR, LLM組込（OpenAI/Gemini）, モバイル × Web (TypeScript/React系), ネイティブアプリケーション, リアルタイム信号処理
 
 ## 🚀 Featured
 
