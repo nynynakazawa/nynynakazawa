@@ -8,7 +8,7 @@
 
 ## 👋 About
 
-- Business × Tech Engineer / Student CTO ビジネス要件定義から実装、運用までを一気通貫で手掛ける「事業を創るエンジニア」です。 強み: AR/XR, LLM実装, TypeScript/React/Next.js, リアルタイム信号処理
+- Business × Tech Engineer / Student CTO ビジネス要件定義から実装、運用までを一気通貫で手掛ける「事業を創るエンジニア」です。
 - 起業 / 研究 / ベンチャー企業での技術開発 / 個人開発 / インターンに注力
 - 強み: フロントエンドからバックエンドまで一気通貫で設計・実装し、技術要素を効率的かつ美しく融合
 - 関心: AR/XR, LLM組込（OpenAI/Gemini）, モバイル × Web, ネイティブアプリケーション, リアルタイム信号処理
